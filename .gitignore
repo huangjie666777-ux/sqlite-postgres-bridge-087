@@ -1,0 +1,10 @@
+.m2/
+target/
+*.db
+*.db-shm
+*.db-wal
+*.log
+.env
+.env.*
+*.pem
+*.key
